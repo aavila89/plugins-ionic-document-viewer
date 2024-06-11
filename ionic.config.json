@@ -1,0 +1,7 @@
+{
+  "name": "ionic_docviewer_plugin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
